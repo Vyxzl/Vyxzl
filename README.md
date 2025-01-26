@@ -1,10 +1,10 @@
 # 💫 Vyxzl 💫
 
-**Hi there!** 👋 I'm a Python coder with a passion for building things. I'm always eager to learn and explore new technologies. 
+**Hi there!** 👋 I'm a Python coder with a passion for building things. I'm always open to learning new things. 
 
 **🚀 Tech Stack:**
 
-* **Languages:** 🐍 Python, 🕸️ HTML 
+* **Languages:** 🐍 Python, 🕸️ HTML, 🌍 LuaU.
 * **Databases:** 🗄️ MySQL, SQLite
 * **Design:** 🎨 Adobe Photoshop, 🎬 Adobe After Effects
 
@@ -16,27 +16,16 @@
 
 **🌱 Learning:**
 
-* Currently diving deeper into **[mention a specific area of interest, e.g., web frameworks like Flask/Django, data science libraries, etc.]** 
+* Currently diving deeper into **[LuaU, HTML]** 
 
 **🤝 Let's Connect!**
 
 * **Find me on:** 
-    * 💼 LinkedIn: [Your LinkedIn Profile URL] 
-    * 🐦 Twitter: [Your Twitter Handle] (if applicable)
+    * 🐦 Discord: [vyxzl]
 
 **I'm always open to new opportunities and collaborations!** 
 
 [GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vyxzl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 
-**[Optional: Add a quote or a fun fact about yourself]** 
+**An idiot admires complexity, a genius admires simplicity. - Terry Davis** 
 
----
-
-**Note:**
-
-* Replace the bracketed information with your actual details.
-* Customize the emojis and the style to your liking.
-* Consider adding a profile picture or a banner image. 
-* Explore other GitHub Readme stats and decorations to personalize it further.
-
-I hope this enhanced version sparks your creativity! ✨
