@@ -10,9 +10,9 @@
 
 **✨ Projects:**
 
-* **[Project 1 Name]**: [Link to Project 1] - [Short description of Project 1] 
-* **[Project 2 Name]**: [Link to Project 2] - [Short description of Project 2] 
-* **[Project 3 Name]**: [Link to Project 3] - [Short description of Project 3]
+* **[Nebula Predictor]**: - [Predictor for Bloxflip with website UI.] 
+* **[Saturn Predictor V1]**: - [Programmed with Mohalk, Discord Bot predicting algorithm.] 
+* **[Skyline SMP Bot]**: - [Normal discord moderation bot]
 
 **🌱 Learning:**
 
