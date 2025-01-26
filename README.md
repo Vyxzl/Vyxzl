@@ -1,19 +1,42 @@
-# Vyxzl
+# 💫 Vyxzl 💫
 
-Hi there! I'm a Python coder passionate about building cool stuff.
+**Hi there!** 👋 I'm a Python coder with a passion for building things. I'm always eager to learn and explore new technologies. 
 
-## Tech Stack
+**🚀 Tech Stack:**
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+* **Languages:** 🐍 Python, 🕸️ HTML 
+* **Databases:** 🗄️ MySQL, SQLite
+* **Design:** 🎨 Adobe Photoshop, 🎬 Adobe After Effects
 
-## Projects
+**✨ Projects:**
 
-* Link to your most prominent project 1
-* Link to your most prominent project 2
-* Link to your most prominent project 3
+* **[Project 1 Name]**: [Link to Project 1] - [Short description of Project 1] 
+* **[Project 2 Name]**: [Link to Project 2] - [Short description of Project 2] 
+* **[Project 3 Name]**: [Link to Project 3] - [Short description of Project 3]
 
-## Let's Connect!
+**🌱 Learning:**
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vyxzlm/) or [Twitter](https://twitter.com/vyxzlm/).
+* Currently diving deeper into **[mention a specific area of interest, e.g., web frameworks like Flask/Django, data science libraries, etc.]** 
 
-I'm always interested in hearing about new projects and opportunities to collaborate.
+**🤝 Let's Connect!**
+
+* **Find me on:** 
+    * 💼 LinkedIn: [Your LinkedIn Profile URL] 
+    * 🐦 Twitter: [Your Twitter Handle] (if applicable)
+
+**I'm always open to new opportunities and collaborations!** 
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vyxzl&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+**[Optional: Add a quote or a fun fact about yourself]** 
+
+---
+
+**Note:**
+
+* Replace the bracketed information with your actual details.
+* Customize the emojis and the style to your liking.
+* Consider adding a profile picture or a banner image. 
+* Explore other GitHub Readme stats and decorations to personalize it further.
+
+I hope this enhanced version sparks your creativity! ✨
